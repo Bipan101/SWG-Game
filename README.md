@@ -46,6 +46,7 @@ Open a terminal/command prompt in the project directory.
 ```
 python SWG.py
 ```
+After Compilation the following will be shown:
 ```
 Enter your choice (s/w/g): s
 Computer chose: water
