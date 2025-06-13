@@ -41,17 +41,13 @@ Clone or download the repository.
 
 Open a terminal/command prompt in the project directory.
 
-##nRun the script using:
+## Run the script using:
 
 ```
-Copy
-Edit
 python SWG.py
-Sample Game Loop
-java
-Copy
-Edit
-Enter your choice (snake/water/gun): snake
+```
+```
+Enter your choice (s/w/g): s
 Computer chose: water
 You win this round!
 ```
@@ -59,8 +55,6 @@ You win this round!
 Score: You - 1 | Computer - 0
 📁 File Structure
 ```
-Copy
-Edit
 
 │
 ├── SWG.py   # Main Python script
